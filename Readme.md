@@ -71,6 +71,6 @@ fa816230af49c1749ba0ae4717b4e06e  mayfly_1.0_linux_amd64.tar.gz
 
 # 联系我
 
-<img src='pictures/Wetchat.jpeg' width=500 height=500>
+<img src='pictures/Wetchat.jpeg' width=300 height=300>
 
-<img src='pictures/gzh.jpg' width=500 height=500>
+<img src='pictures/gzh.jpg' width=300 height=300>

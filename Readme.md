@@ -4,6 +4,8 @@
 
 一款免费开源的信息搜集工具
 
+[点这里进行下载](https://github.com/crow821/mayfly/releases/tag/1.0)
+
 ### 介绍
 
 - mayfly是由python3堆成的，使用pyinstaller在pipenv虚拟环境下打包
@@ -25,9 +27,10 @@
 
 #### V1.0版本md5值：
 
-- aaa54ef1d899224a64a3551ff6300834                   mayfly_1.0_darwin_amd64.tar.gz
-- fa816230af49c1749ba0ae4717b4e06e                  mayfly_1.0_linux_amd64.tar.gz
-- 6d522a17bc82009fe39fac4f57e70320                   mayfly_1.0_windows_amd64.zip
+| mayfly_1.0_darwin_amd64.tar.gz | aaa54ef1d899224a64a3551ff6300834 |
+| ------------------------------ | -------------------------------- |
+| mayfly_1.0_linux_amd64.tar.gz  | fa816230af49c1749ba0ae4717b4e06e |
+| mayfly_1.0_windows_amd64.zip   | 6d522a17bc82009fe39fac4f57e70320 |
 
 ### 使用方式
 

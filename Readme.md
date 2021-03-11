@@ -10,7 +10,7 @@
 
 - mayfly是由python3堆成的，使用pyinstaller在pipenv虚拟环境下打包
 
-- 文件打包之后很大，这个也是python的缺点，每一个都由10多M，具体的md5值在下面
+- 文件打包之后很大，这个也是python的缺点，每一个都有10多M，具体的md5值在下面
 
 - 之所以没有放出源代码的主要原因是代码写的烂，师傅们自行逆向获取源码
 
@@ -36,7 +36,7 @@
 
 > <font color='red'>三个版本均需提供fofa的有效cookie，不然无法进行爬取，也就是说必须有fofa的会员</font>
 >
-> <font color='red'>因为python3在32位下打包有些bug，所以三个版本目前仅支持在64系统下运行，</font>
+> <font color='red'>因为python3在32位下打包有些bug，所以三个版本目前仅支持在64系统下运行</font>
 
 ##### fofa cookie截图
 

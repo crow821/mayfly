@@ -88,7 +88,7 @@
 
 ##### Linux
 
-- 运行文件 mayfly_linux_amd64
+- 运行文件 mayfly_linux_amd64 
 
 - 与mac下运行方式相同
 
